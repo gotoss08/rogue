@@ -1,0 +1,4 @@
+"C:\Users\gotos\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/gotos/AppData/Local/Programs/CLion Nova/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\gotos\CLionProjects\rogue -B C:\Users\gotos\CLionProjects\rogue\cmake-build-debug-ucrt64
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/gotos/CLionProjects/rogue/cmake-build-debug-ucrt64

@@ -1,0 +1,3 @@
+C:/Users/gotos/CLionProjects/rogue/cmake-build-debug-ucrt64/CMakeFiles/rogue.dir
+C:/Users/gotos/CLionProjects/rogue/cmake-build-debug-ucrt64/CMakeFiles/edit_cache.dir
+C:/Users/gotos/CLionProjects/rogue/cmake-build-debug-ucrt64/CMakeFiles/rebuild_cache.dir
