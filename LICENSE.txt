@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Pavel Pereverzev (gotoss08@gmail.com)
+Copyright (c) 2024 gotoss08@gmail.com (Pavel Pereverzev)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
